@@ -13,6 +13,8 @@
 		048CD23821118A9E00A926AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048CD23721118A9E00A926AD /* Assets.xcassets */; };
 		048CD23B21118A9E00A926AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048CD23921118A9E00A926AD /* LaunchScreen.storyboard */; };
 		048CD24621118F7000A926AD /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048CD24521118F7000A926AD /* TableViewCell.swift */; };
+		048CD24921118FEC00A926AD /* placeholder-filled-point.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CD24821118FEC00A926AD /* placeholder-filled-point.png */; };
+		048CD24B2111903600A926AD /* if_6_2300997.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CD24A2111903600A926AD /* if_6_2300997.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		048CD23A21118A9E00A926AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		048CD23C21118A9E00A926AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		048CD24521118F7000A926AD /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		048CD24821118FEC00A926AD /* placeholder-filled-point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "placeholder-filled-point.png"; sourceTree = "<group>"; };
+		048CD24A2111903600A926AD /* if_6_2300997.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_6_2300997.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		048CD24721118FA600A926AD /* Home */ = {
 			isa = PBXGroup;
 			children = (
+				048CD24A2111903600A926AD /* if_6_2300997.png */,
+				048CD24821118FEC00A926AD /* placeholder-filled-point.png */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -144,7 +150,9 @@
 			files = (
 				048CD23B21118A9E00A926AD /* LaunchScreen.storyboard in Resources */,
 				048CD23821118A9E00A926AD /* Assets.xcassets in Resources */,
+				048CD24921118FEC00A926AD /* placeholder-filled-point.png in Resources */,
 				048CD23621118A9E00A926AD /* Main.storyboard in Resources */,
+				048CD24B2111903600A926AD /* if_6_2300997.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
