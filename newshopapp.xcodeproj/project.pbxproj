@@ -40,6 +40,7 @@
 		048CD22421118A9E00A926AD = {
 			isa = PBXGroup;
 			children = (
+				048CD24721118FA600A926AD /* Home */,
 				048CD24421118F4D00A926AD /* Picture */,
 				048CD22F21118A9E00A926AD /* newshopapp */,
 				048CD22E21118A9E00A926AD /* Products */,
@@ -73,6 +74,13 @@
 				048CD24521118F7000A926AD /* TableViewCell.swift */,
 			);
 			path = Picture;
+			sourceTree = "<group>";
+		};
+		048CD24721118FA600A926AD /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
