@@ -38,6 +38,7 @@
 		048CD22421118A9E00A926AD = {
 			isa = PBXGroup;
 			children = (
+				048CD24221118B4000A926AD /* Picture */,
 				048CD22F21118A9E00A926AD /* newshopapp */,
 				048CD22E21118A9E00A926AD /* Products */,
 			);
@@ -62,6 +63,13 @@
 				048CD23C21118A9E00A926AD /* Info.plist */,
 			);
 			path = newshopapp;
+			sourceTree = "<group>";
+		};
+		048CD24221118B4000A926AD /* Picture */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Picture;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
